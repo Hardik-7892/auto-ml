@@ -1,0 +1,6 @@
+streamlit==1.33.0
+pandas==2.2.2
+autogluon==1.1.1
+numpy==1.26.4
+plotly==5.18.0
+python-dotenv==1.0.1
